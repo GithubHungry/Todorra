@@ -26,6 +26,8 @@ Todorra is a todo, multi-user, multi-list application for Django, designed to be
 
 ## Overview
 
+Simple Todo application on Django! Add, Update and complete your tasks!
+
 Identical list names can exist in different groups, but not in the same group.
 
 Emails are generated to the assigned-to person when new tasks are created.
